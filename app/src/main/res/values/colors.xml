@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="input_dvier">#D8D8D8</color>
+    <color name="input_dvier_focus">#1BB879</color>
+    <color name="loginButtonText">#B5B2B2</color>
+    <color name="loginButtonTextFouse">#FFFFFF</color>
+    <color name="loginButtonBackgroundFouse">#07C160</color>
+    <color name="loginButtonBackgroundNotFouse">#D4D8D5</color>
+    <color name="title">#EDEDED</color>
+    <color name="loginText">#5A5959</color>
+    <color name="textColorHint">#DDDDDD</color>
+</resources>
